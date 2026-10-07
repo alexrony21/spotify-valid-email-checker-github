@@ -1,6 +1,6 @@
 # 🎧 Spotify Valid Email Checker
 
-![Spotify Valid Email Checker](https://raw.githubusercontent.com/alexrony21/Spotify-Valid-Email-Checker/refs/heads/main/spotify-valid-email-checker.png)
+![Spotify Valid Email Checker](https://raw.githubusercontent.com/alexrony21/spotify-valid-email-checker-github/refs/heads/main/spotify-valid-email-checker-github.png)
 
 ---
 
